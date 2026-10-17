@@ -1,0 +1,4 @@
+# Mount the archived-sessions manager when this package is listed as a profile bundle.
+- insert:
+    - id: archived-sessions
+      name: dsh-archived-sessions
